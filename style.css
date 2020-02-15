@@ -1,0 +1,38 @@
+/* 모든 요소 선택 */
+*,
+*::before,
+*::after {
+    box-sizing: border-box
+}
+
+/* header */
+.header{
+    background : yellow;
+}
+
+/* main */
+.main{
+    background-color: yellow;
+}
+
+.hero-section{
+    background-color: aqua;
+}
+
+.main-content{
+    background-color: red;
+    float : left;
+}
+
+/* CONTENT-INFO */
+.content-info{
+    background : green;
+}
+
+.links{
+    background : lightgreen;
+}
+
+.footer{
+    background : purple;
+}
